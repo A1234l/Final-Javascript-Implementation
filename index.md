@@ -8,9 +8,7 @@
             /* CSS-style selector maps to table id or other id's in HTML */
             #jsonTable{
                 background-color: #353b45;
-                padding: 10px;
                 border: 3px solid #ccc;
-                box-shadow: 0.8em 0.4em 0.4em grey;
                 width: 100%;
             }
             #jsonRow tr{
